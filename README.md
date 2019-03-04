@@ -3,6 +3,7 @@ Minimal Spring Cloud Discovery + Gateway + REST Controller application
 
 # Versions
 Spring Cloud version: Finchley.SR2
+
 Spring Boot version: 2.0.6.RELEASE
 
 Creating empty files for testing purposes:
