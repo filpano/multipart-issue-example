@@ -1,5 +1,5 @@
 # multipart-issue-example
-Minimal Spring Cloud Discovery + Gateway + REST Controller application
+Minimal Spring Cloud Discovery + Gateway + REST Controller application showcasing the following issue: https://github.com/spring-cloud/spring-cloud-gateway/issues/872
 
 # Usage
 
